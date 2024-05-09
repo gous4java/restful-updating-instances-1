@@ -71,7 +71,7 @@ public class PersonController {
         PersonDetail updatePersonResponse = new PersonDetail();
         objectMapper.updateValue(updatePersonResponse, people);
         log.info("Return the result of request: {}", updatePersonResponse);
-
+        log.info("goussssssssssssssssssssssssssssssssssss");
         return updatePersonResponse;
     }
 }
