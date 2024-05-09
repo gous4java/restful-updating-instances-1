@@ -132,4 +132,4 @@ http://localhost:{port-of-module}/swagger-ui.html
 
 ## 🔏 Licensing
 
-This project is licensed under the MIT license - see the [lisence](LICENSE) document for details.
+1
