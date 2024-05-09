@@ -133,3 +133,4 @@ http://localhost:{port-of-module}/swagger-ui.html
 ## 🔏 Licensing
 
 1
+2
